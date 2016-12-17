@@ -1,0 +1,29 @@
+{
+  "name": "js_game_project",
+  "version": "1.0.0",
+  "description": "a complex and yet simple web browser game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archangel777/JS_Game-project.git"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "author": "Erick Lima Trentini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archangel777/JS_Game-project/issues"
+  },
+  "homepage": "https://github.com/archangel777/JS_Game-project#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
